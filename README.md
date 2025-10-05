@@ -1,3 +1,3 @@
 # im_richh
 
-A new Flutter project.
+Beginner Level Basics of Flutter Design.
